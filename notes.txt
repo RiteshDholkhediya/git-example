@@ -12,3 +12,6 @@
 12. 'git log --graph --oneline' is used to to show commits in graphs in oneline.
 13. 'git branch <branch name>' to create the new branch and then 'git checkout <branch name>' to switch to that branch
 14. ' git log --graph --oneline --all' another command to check log with some flags to get extra information
+15. 'git branch -d <branch name>'
+16. 'git stash' saves tracked modified file(clean your history)
+17. 'git stash apply' Applies latest Stash to current code
