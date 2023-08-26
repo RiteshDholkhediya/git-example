@@ -4,3 +4,4 @@
 4. 'git commit -m 'message' ' use to save code to git 
 5. 'git branch' shows list of all the branches (* active branch)
 6. 'git diff --cached' shows difference b/w current staged and previous commit
+7. 'git diff [commit id]' then you can check difference b/w two commits
