@@ -7,3 +7,4 @@
 7. 'git diff [commit id]' then you can check difference b/w two commits
 8. 'git checkout <commit-number>', used to go to commit stage in the project
 9. 'git checkout <branch-name>' go to head commit of branch or swich to other branch
+10. 'q' we use this command after 'git log' to come out of logs
