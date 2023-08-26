@@ -15,3 +15,5 @@
 15. 'git branch -d <branch name>'
 16. 'git stash' saves tracked modified file(clean your history)
 17. 'git stash apply' Applies latest Stash to current code
+18. 'git remote add <remote-name> <remote-url>'
+19. 'git push <remote-name> <branch-name>' (generally remote name is origine but it can be different)
