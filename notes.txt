@@ -8,3 +8,5 @@
 8. 'git checkout <commit-number>', used to go to commit stage in the project
 9. 'git checkout <branch-name>' go to head commit of branch or swich to other branch
 10. 'q' we use this command after 'git log' to come out of logs
+11. 'git log --graph' is used to to show commits in graphs
+12. 'git log --graph --oneline' is used to to show commits in graphs in oneline.
