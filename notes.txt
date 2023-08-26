@@ -1,0 +1,6 @@
+1. First command will be : git init (to initialize the git).
+2. Then run 'git status'
+3. use 'git add .' (for all the files ) or 'git add fileName' used to add the files to staging area where git can tract changes in the files
+4. 'git commit -m 'message' ' use to save code to git 
+5. 'git branch' shows list of all the branches (* active branch)
+6. 'git diff --cached' shows difference b/w current staged and previous commit
