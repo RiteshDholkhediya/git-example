@@ -17,3 +17,5 @@
 17. 'git stash apply' Applies latest Stash to current code
 18. 'git remote add <remote-name> <remote-url>'
 19. 'git push <remote-name> <branch-name>' (generally remote name is origine but it can be different)
+20. 'git fetch' to fetch the remote file to local and then run 'git merge'
+21. 'git pull <remote-name> <branch-name>' this is shortcut to pull and merge remote changes to local
