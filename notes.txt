@@ -10,3 +10,4 @@
 10. 'q' we use this command after 'git log' to come out of logs
 11. 'git log --graph' is used to to show commits in graphs
 12. 'git log --graph --oneline' is used to to show commits in graphs in oneline.
+13. 'git branch <branch name>' to create the new branch and then 'git checkout <branch name>' to switch to that branch
