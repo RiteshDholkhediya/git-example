@@ -6,3 +6,4 @@
 6. 'git diff --cached' shows difference b/w current staged and previous commit
 7. 'git diff [commit id]' then you can check difference b/w two commits
 8. 'git checkout <commit-number>', used to go to commit stage in the project
+9. 'git checkout <branch-name>' go to head commit of branch or swich to other branch
